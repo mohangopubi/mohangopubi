@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohangopubi
+- 👋 Hi, I’m @mohangopu
 - 👀 I’m interested in Power Platform
 - 🌱 I’m currently learning Power Apps, Power Automate, Power Vertual Agents, Sharepoint.
 - 💞️ I’m looking to collaborate on ...
